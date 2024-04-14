@@ -691,6 +691,8 @@ template {
 }
 
 .projects__img {
+  -o-object-fit: cover;
+     object-fit: cover;
   width: inherit;
   height: inherit;
   background-color: #353535;
